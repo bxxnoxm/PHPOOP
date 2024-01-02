@@ -32,10 +32,10 @@ class Personal {
   // สร้าง object สำหรับเก็บข้อมูลพนักงานคนที่ 1
   $emp1 = new Personal();
   $emp1->setnameperson("sutthipong","Business Computer","student",1000,17,0929279405);
-  $emp1->getnameperson("adipha","Business Computer","student",3000,17,0917523669);
-  $emp1->getnameperson("arisara","Business Computer","student",2500,17,0935105741);
-  $emp1->getnameperson("chiraporn","Business Computer","student",5000,17,0636034628);
-  $emp1->getnameperson("thippawan","Business Computer","student",9400,17,0808872790);
+  $emp2->getnameperson("adipha","Business Computer","student",3000,17,0917523669);
+  $emp3->getnameperson("arisara","Business Computer","student",2500,17,0935105741);
+  $emp4->getnameperson("chiraporn","Business Computer","student",5000,17,0636034628);
+  $emp5->getnameperson("thippawan","Business Computer","student",9400,17,0808872790);
   
   
   
